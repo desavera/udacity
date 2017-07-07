@@ -1,0 +1,2 @@
+sudo docker run -it --expose 8080 --dns=8.8.8.8 --volume `pwd`:/docked desavera/udacity /bin/bash
+
